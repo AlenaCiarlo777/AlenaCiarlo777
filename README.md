@@ -6,7 +6,7 @@
 
 ## 🎨 Banner
 
-![GitHub Banner](https://img.shields.io/badge/Welcome-to%20My%20Profile-✨-purple?style=for-the-badge)
+![Welcome](https://img.shields.io/badge/Welcome-to%20My%20Profile-💻-blue?style=for-the-badge)
 
 ---
 
