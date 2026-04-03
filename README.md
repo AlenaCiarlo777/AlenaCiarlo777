@@ -1,4 +1,6 @@
-## Hi there 👋
+## ✍️ Writing
+
+[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-black?logo=medium)](https://medium.com/@alenaciarlo777)
 
 <!--
 **AlenaCiarlo777/AlenaCiarlo777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
