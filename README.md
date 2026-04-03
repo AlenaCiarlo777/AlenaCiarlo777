@@ -21,7 +21,7 @@
 
 ## 🚀 Projects
 
-- 🌐 Portfolio: https://your-portfolio-link.com
+- - 🌐 Portfolio: https://medium.com/@alenaciarlo777
 - 📁 GitHub Projects: https://github.com/AlenaCiarlo777?tab=repositories
 
 ---
