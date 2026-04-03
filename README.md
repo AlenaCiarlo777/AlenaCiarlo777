@@ -17,9 +17,9 @@ Check out my latest articles on tech, projects, and learning.
 
 ## 🚀 Projects & Work
 
+- 🌐 [My Portfolio](https://alenaciarlo777.github.io/my-portfolio/) – My personal portfolio website  
 - 📁 [GitHub Repositories](https://github.com/AlenaCiarlo777?tab=repositories) – My coding projects  
-- 🌐 [Medium Portfolio](https://medium.com/@alenaciarlo777) – My writing portfolio  
-
+- ✍️ [Medium Portfolio](https://medium.com/@alenaciarlo777) – My writing portfolio
 ---
 
 ## 📊 GitHub Stats
