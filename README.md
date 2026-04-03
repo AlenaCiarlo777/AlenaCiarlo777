@@ -6,7 +6,7 @@
 
 ## 🎨 Banner
 
-![Welcome](https://img.shields.io/badge/Welcome-to%20My%20Profile-💻-blue?style=for-the-badge)
+![Welcome](https://img.shields.io/badge/Welcome-to-MyProfile-blue?style=for-the-badge)
 
 ---
 
@@ -26,20 +26,14 @@ Check out my latest articles on tech, projects, and learning.
 
 ## 📊 GitHub Stats
 
-![Alena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlenaCiarlo777&show_icons=true&theme=radical)
+![Alena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlenaCiarlo777&show_icons=true&theme=radical&count_private=true)
 
 ---
 
 ## 🔗 Connect with Me
 
-<p>
-  <a href="https://linkedin.com/in/alenaciarlo777">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  </a>
-  <a href="https://medium.com/@alenaciarlo777">
-    <img src="https://img.shields.io/badge/Medium-Follow-black?logo=medium" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/alenaciarlo777)  
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?logo=medium)](https://medium.com/@alenaciarlo777)
 
 ---
 
