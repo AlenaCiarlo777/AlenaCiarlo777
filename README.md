@@ -1,32 +1,36 @@
-## ✍️ Writing
+# 👋 Hi, I'm Alena
 
-[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-black?logo=medium)](https://medium.com/@alenaciarlo777)
-# Hi, I'm Alena 👋
-
-💻 Aspiring Developer  
-🌱 Currently learning and building projects  
-✍️ Sharing ideas on Medium  
+💻 Aspiring Developer | 🌱 Learning & Building | ✍️ Writer on Medium  
 
 ---
 
-## ✍️ Writing
+## 🎨 Banner
 
-<p>
-  <a href="https://medium.com/@alenaciarlo777">
-    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-black?logo=medium" />
-  </a>
-</p>
+![GitHub Banner](https://img.shields.io/badge/Welcome-to%20My%20Profile-✨-purple?style=for-the-badge)
 
 ---
 
-## 🚀 Projects
+## ✍️ Writing & Articles
 
-- - 🌐 Portfolio: https://medium.com/@alenaciarlo777
-- 📁 GitHub Projects: https://github.com/AlenaCiarlo777?tab=repositories
+[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-black?logo=medium)](https://medium.com/@alenaciarlo777)  
+Check out my latest articles on tech, projects, and learning.
 
 ---
 
-## 🔗 Connect with me
+## 🚀 Projects & Work
+
+- 📁 [GitHub Repositories](https://github.com/AlenaCiarlo777?tab=repositories) – My coding projects  
+- 🌐 [Medium Portfolio](https://medium.com/@alenaciarlo777) – My writing portfolio  
+
+---
+
+## 📊 GitHub Stats
+
+![Alena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlenaCiarlo777&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Connect with Me
 
 <p>
   <a href="https://linkedin.com/in/alenaciarlo777">
@@ -40,17 +44,3 @@
 ---
 
 ⭐ Thanks for visiting my profile!
-<!--
-**AlenaCiarlo777/AlenaCiarlo777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
