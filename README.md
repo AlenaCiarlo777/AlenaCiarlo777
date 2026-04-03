@@ -30,9 +30,9 @@ Check out my latest articles on tech, projects, and learning.
 
 ## 🔗 Connect with Me
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/alenaciarlo777)  
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?logo=medium)](https://medium.com/@alenaciarlo777)
-
 ---
 
 ⭐ Thanks for visiting my profile!
