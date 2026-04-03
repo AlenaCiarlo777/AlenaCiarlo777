@@ -6,7 +6,7 @@
 
 ## 🎨 Banner
 
-![Welcome](https://img.shields.io/badge/Welcome-to-MyProfile-blue?style=for-the-badge)
+
 
 ---
 
